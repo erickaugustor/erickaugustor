@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+My name is Erick Augusto and I'm a software engineer passionate for JavaScript and Agile!
+
+- 🔭 I’m currently working on Daitan Group.
+- 📫 Connect with me on LinkedIn: /in/erickaugustor/.
+- 😄 Pronouns: he/his.
+
 <!--
 **erickaugustor/erickaugustor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
