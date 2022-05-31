@@ -2,7 +2,7 @@
 
 My name is Erick Augusto and I'm a software engineer passionate for JavaScript and Agile!
 
-- 🔭 I’m currently working on Daitan Group.
+- 🔭 I’m currently working on Delivery Hero.
 - 📫 Connect with me on LinkedIn: /in/erickaugustor/.
 - 😄 Pronouns: he/his.
 
